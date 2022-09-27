@@ -1,0 +1,2 @@
+# NoExe
+denied exe startup
