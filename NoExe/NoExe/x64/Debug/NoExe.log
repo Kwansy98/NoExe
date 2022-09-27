@@ -1,0 +1,8 @@
+﻿  Building 'NoExe' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  driver.cpp
+  NoExe.vcxproj -> C:\Users\dev\source\repos\NoExe\x64\Debug\NoExe.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\dev\source\repos\NoExe\x64\Debug\NoExe.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
